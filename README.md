@@ -5,7 +5,7 @@
 ---
 
 ## 💡 About Me
-- 🎓 IT Engineering Student & passionate about **Mobile Development**  
+- 🎓 Computer Engineering Graduate & passionate about **Mobile Development**  
 - 💻 Skilled in **Flutter, Firebase, Google Maps API, and Cloud Services**  
 - 📱 Building apps like **MediTrack**, **Travel Helper**, and **Doctor Appointment Booking App**  
 - 🌱 Always learning and improving my skills  
