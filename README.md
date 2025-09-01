@@ -15,23 +15,26 @@
 
 ## 🛠️ Tech Stack
 - **Languages:** Dart, C++, Python, Java  
-- **Mobile Development:** Flutter, Firebase  
-- **Backend & Cloud:** AWS, Appwrite, Firestore  
+- **Mobile Development:** Flutter, Firebase, Kotlin, Java
+- **Backend & Cloud:** AWS, Appwrite, Firestore
+- **Databases:** SQL, MongoDB  
 - **Tools:** Git, VS Code, Android Studio  
 
 ---
 
 ## 📌 Featured Projects
-- 🏥 **MediTrack** – Medicine tracker & doctor appointment app  
+- 🏥 **MediTrack** – Medicine tracker & doctor appointment app
+- 📂 **CodeShare** - Anonymous File and Code share web platform
 - 🌍 **Travel Helper** – Group trip planner with maps, chat & expense splitter  
-- 💬 **Group Chat App** – Firebase authentication & real-time chat  
+- 💬 **Group Chat App** – Firebase authentication & real-time chat
+- 
 
 ---
 
 ## 📫 Connect With Me
 - 📧 Email: [lokhandeamol2208@gmail.com](mailto:lokhandeamol2208@gmail.com)  
 - 💼 LinkedIn: [Amol Lokhande](https://www.linkedin.com/in/lokhandeamol/)  
-- 🐙 GitHub: [amollokhande1234](https://github.com/amollokhande1234)  
+- 🐙 GitHub: [amollokhande1234](https://github.com/amollokhande1234)
 
 ---
 
