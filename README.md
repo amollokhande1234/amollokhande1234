@@ -27,7 +27,6 @@
 - 📂 **CodeShare** - Anonymous File and Code share web platform
 - 🌍 **Travel Helper** – Group trip planner with maps, chat & expense splitter  
 - 💬 **Group Chat App** – Firebase authentication & real-time chat
-- 
 
 ---
 
