@@ -31,7 +31,7 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: [lokhandeamol2208@gmail.com](mailto:lokhandeamol2208@gmail.com)  
+- 📧 Email: [lokhandeamol2208@gmail.com](mailto:lokhandeamol70289@gmail.com)  
 - 💼 LinkedIn: [Amol Lokhande](https://www.linkedin.com/in/lokhandeamol/)  
 - 🐙 GitHub: [amollokhande1234](https://github.com/amollokhande1234)
 
